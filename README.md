@@ -16,25 +16,12 @@
 
 ### 🏆 Leadership and Achievements
 - **SIF : SPACE HACKATHON FINALIST 2023** - Finalist in the cutting-edge SIF: SPACE HACKATHON 2023 by IISF in association with ISRO
-- **SAHODAYA COMPLEX AWARD RECIPIENT 2022** - Honored with Sahodaya award after securing rank 1 in my school
-- **CREATIVE AND MANAGEMENT LEAD 2023** - Led the team with strong management as a core member of GDSC IIITBH
 - **SUMMER INTERN @ISRO RAC-S (NIT PATNA) 2024** - Accepted as a summer intern at Regional Academic Centre for Space at NIT Patna
 
 ### 💻 Technical Skills
 - **Languages:** Python, C/C++
 - **Developer Tools:** VS Code, Google Colab, TensorFlowHub, Kaggle
 - **Technologies/Frameworks:** TensorFlow, HuggingFace
-
-### 📚 Education
-- **Bachelor of Technology | Computer Science and Engineering**
-  - International Institute of Information Technology, Bhubaneswar 
-  - Grade: 8.12 (3rd sem) | (2022-26)
-
-- **Post Matriculation | Percentage: 96.6% | (2020-22)**
-  - St. Xavier’s High School, Khandagiri 
-
-- **Matriculation | Percentage: 96.4% | (2017-20)**
-  - St. Xavier’s High School, Khandagiri 
 
 ### 📜 Relevant Coursework
 - Machine Learning
