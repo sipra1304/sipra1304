@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sipra1304&label=Profile%20views&color=0e75b6&style=flat" alt="sipra1304" /> </p>
 
 - 🔭 I’m currently working on **Voice Assisted Chatbot**, a project that enhances website browsing via voice commands.
-- 🌱 I’m currently learning **Transfer Learning** and **Natural Language Processing**.
-- 👯 I’m looking to collaborate on **Machine Learning** and **Deep Learning** projects.
-- 🤔 I’m looking for help with **advanced NLP techniques**.
+- 🌱 I’m currently learning **LLMs** and **Natural Language Processing**.
+- 👯 I’m looking to collaborate on **Gen AI** and **Deep Learning** projects.
+- 🤔 I’m looking for help with **RAGs**.
 - 💬 Ask me about **Python, TensorFlow, Machine Learning, and Deep Learning**.
 - 📫 How to reach me: **b122112@iiit-bh.ac.in**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Dkf7M7QlMCKW1Dfz7-sl-jXJ1E4V_2wR/view?usp=sharing)
@@ -17,11 +17,12 @@
 ### 🏆 Leadership and Achievements
 - **SIF : SPACE HACKATHON FINALIST 2023** - Finalist in the cutting-edge SIF: SPACE HACKATHON 2023 by IISF in association with ISRO
 - **SUMMER INTERN @ISRO RAC-S (NIT PATNA) 2024** - Accepted as a summer intern at Regional Academic Centre for Space at NIT Patna
+- **AMAZON ML SUMMER SCHOOL 2024** - Accepeted to the Amazon ML Summer School
 
 ### 💻 Technical Skills
 - **Languages:** Python, C/C++
 - **Developer Tools:** VS Code, Google Colab, TensorFlowHub, Kaggle
-- **Technologies/Frameworks:** TensorFlow, HuggingFace
+- **Technologies/Frameworks:** TensorFlow, HuggingFace, Pytorch
 
 ### 📜 Relevant Coursework
 - Machine Learning
