@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sipra1304&label=Profile%20views&color=0e75b6&style=flat" alt="sipra1304" /> </p>
 
-- 🔭 I’m currently working on **Voice Assisted Chatbot**, a project that enhances website browsing via voice commands.
+- 🔭 I’m currently working on **Custom Chatbot**, a project that enhances website question answering.
 - 🌱 I’m currently learning **LLMs** and **Natural Language Processing**.
 - 👯 I’m looking to collaborate on **Gen AI** and **Deep Learning** projects.
 - 🤔 I’m looking for help with **RAGs**.
@@ -31,20 +31,6 @@
 - Object Oriented Programming
 - Transfer Learning
 - Natural Language Processing
-
-### 🚀 Projects
-- **Research Paper Skimmer**
-  - Tech Stack: TensorFlow, NLP, Scikit Learn
-  - Classifies abstract sentences into their respective roles (e.g., objective, methods, results) within research papers, facilitating efficient literature skimming for researchers
-
-- **Voice Assisted Chatbot**
-  - Tech Stack: BeautifulSoup, gTTS, spaCy, Scikit Learn
-  - Facilitates website browsing via voice commands for seamless page access. Interprets voice commands to instantly open specific website pages, enhancing user efficiency. Integrated with BeautifulSoup for up-to-date information retrieval.
-
-- **PDF Question Answering Multilingual**
-  - Tech Stack: HuggingFace, Pytorch, Transfer Learning
-  - Used pretrained models: T5 (translation), Roberta, and Layout_LM (question answering)
-  - Offers multilingual question answering options (French, English, Hindi, Spanish) and effectively answers questions based on the uploaded PDF
 
 ### 📫 Contact Me
 - Email: [b122112@iiit-bh.ac.in](mailto:b122112@iiit-bh.ac.in)
