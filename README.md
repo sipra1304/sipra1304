@@ -21,16 +21,8 @@
 
 ### 💻 Technical Skills
 - **Languages:** Python, C/C++
-- **Developer Tools:** VS Code, Google Colab, TensorFlowHub, Kaggle
-- **Technologies/Frameworks:** TensorFlow, HuggingFace, Pytorch
-
-### 📜 Relevant Coursework
-- Machine Learning
-- Deep Learning
-- Scientific Computing with Python
-- Object Oriented Programming
-- Transfer Learning
-- Natural Language Processing
+- **Developer Tools:** Google Colab,  Kaggle
+- **Technologies/Frameworks:** TensorFlow, HuggingFace, Pytorch, Langchain, BeautifulSoup
 
 ### 📫 Contact Me
 - Email: [b122112@iiit-bh.ac.in](mailto:b122112@iiit-bh.ac.in)
