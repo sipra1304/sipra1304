@@ -9,15 +9,9 @@
 - 🤔 I’m looking for help with **RAGs**.
 - 💬 Ask me about **Python, TensorFlow, Machine Learning, and Deep Learning**.
 - 📫 How to reach me: **b122112@iiit-bh.ac.in**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Dkf7M7QlMCKW1Dfz7-sl-jXJ1E4V_2wR/view?usp=sharing)
 - 📜 Check out my published research paper on [IEEE Xplore](https://ieeexplore.ieee.org/document/10508030)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/sipra-mohanty-738372258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 💼 My GitHub Projects: [GitHub](https://github.com/sipra1304)
-
-### 🏆 Leadership and Achievements
-- **SIF : SPACE HACKATHON FINALIST 2023** - Finalist in the cutting-edge SIF: SPACE HACKATHON 2023 by IISF in association with ISRO
-- **SUMMER INTERN @ISRO RAC-S (NIT PATNA) 2024** - Accepted as a summer intern at Regional Academic Centre for Space at NIT Patna
-- **AMAZON ML SUMMER SCHOOL 2024** - Accepeted to the Amazon ML Summer School
 
 ### 💻 Technical Skills
 - **Languages:** Python, C/C++
